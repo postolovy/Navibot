@@ -1,1 +1,0 @@
-navibot_py_examples
