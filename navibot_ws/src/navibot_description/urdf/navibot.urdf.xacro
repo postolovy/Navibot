@@ -4,6 +4,9 @@
 
   <xacro:include filename="$(find navibot_description)/urdf/navibot_gazebo.xacro" />
 
+  <xacro:include filename="$(find navibot_description)/urdf/navibot_ros2_control.xacro" />
+
+
   <!-- Material definitions -->
   <material name="grey">
     <color rgba="0.2 0.2 0.2 1.0"/>
